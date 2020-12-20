@@ -1,0 +1,1 @@
+BOARD_X_POS = '|abcdefgh|'
