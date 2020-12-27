@@ -1,4 +1,4 @@
-from chessutil.validationutil.__Constants import BOARD_X_POS
+from main.chessutil.validationutil.Constants import BOARD_X_POS
 
 def getValidKingMoves(color, key, json):
     print("Getting valid moves for King at "+key)

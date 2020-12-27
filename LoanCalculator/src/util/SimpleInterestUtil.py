@@ -1,4 +1,4 @@
-from decimal import *
+from decimal import Decimal
 
 class SimpleInterestLoan:
     def __init__(self, principal: Decimal, payment: Decimal, paymentPeriod: int):
